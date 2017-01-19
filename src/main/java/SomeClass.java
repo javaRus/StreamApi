@@ -21,4 +21,8 @@ public class SomeClass {
     public static void method3() {
         method2();
     }
+
+    public void printSome() {
+        System.out.println();
+    }
 }
